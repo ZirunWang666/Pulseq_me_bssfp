@@ -5,9 +5,12 @@ Multi-echo bSSFP balanced steady-state free-precession implementation within Pul
 Pulseq GitHub: https://pulseq.github.io/
 
 
+
+
+--------------------------------------------------
 2023-11-06
 
-Authors:   Zirun Wang
+Authors:   Zirun Wang,
            University Medical Center FREIBURG
            Dept. of Radiology, Medical Physics
            Killianstr. 5a - 79106 Freiburg
